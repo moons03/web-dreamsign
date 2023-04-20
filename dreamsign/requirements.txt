@@ -17,7 +17,7 @@ redis==3.5.3
 reportlab==3.5.67
 requests==2.25.1
 six==1.16.0
-sqlparse==0.4.1
+sqlparse==0.4.4
 urllib3==1.26.5
 uWSGI==2.0.19.1
 webencodings==0.5.1
